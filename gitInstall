@@ -1,0 +1,10 @@
+git init 
+git config --global user.name "lxf"
+git config --global user.email "leon.rosenfeild@gmail.com"
+git config --list
+ssh -T git@github.com ????
+cd .ssh/
+cat id_ed25519.pub
+paste SSH to github
+
+
